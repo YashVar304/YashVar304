@@ -1,4 +1,4 @@
-##Hi there, I am Your Yash Varshney
+#Hi there, I am Your Yash Varshney
 ```
 I am from Sambhal. I am pursuing B.Tech from Ajay Kumar Garg Engineering College,Ghaziabad in Computer Science and Engineering (Airtificial Intelligence and Machine Learning)
 I have Scored 93% in 12th
